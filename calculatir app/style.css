@@ -1,0 +1,41 @@
+  .main {
+    border: 5px groove black;
+    width: 202px;
+    margin: 0 auto;
+    border-radius: 20px;
+  }
+  
+  .result {
+    width: 96%;
+    position: relative;
+    top: -2px;
+    background-color: rgb(106, 105, 105);
+    color: #fff;
+    border-radius: 20px;
+
+  }
+  
+  .clearBtn {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 6px;
+    background-color: grey;
+    border-radius: 20px;
+ 
+}
+  
+  .btn {
+    background-color: grey;
+    width: 45.2px;
+    margin: 1px;
+    border-radius: 20px;
+
+}
+  
+  .halfBtn {
+    background-color: grey;
+    width: 98.5px;
+    margin-top: 5px;
+    border-radius: 20px;
+
+}
